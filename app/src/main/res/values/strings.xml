@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="btn_dice_text">Roll</string>
+    <string name="text_message">You rolled a %s!</string>
+</resources>
